@@ -1,6 +1,9 @@
 ## Oi, prazer, [***Lucas***](https://www.linkedin.com/in/lucasdoc/)! 👋
+Ciência de Dados | Visão Computacional | Pesquisador em Deep Learning
 
-Estudante de Ciência da Computação (7º semestre) na PUCPR e atuando com Ciência de Dados e Machine Learning na MBRF.
+---
+
+Estudante de Ciência da Computação (7º semestre), pesquisador na PUCPR e atuando com Cientista de Dados na MBRF.
 
 Trabalho com Deep Learning e Visão Computacional, desenvolvendo sistemas aplicados a cenários reais e pesquisa em Cidades Inteligentes.
 
@@ -28,3 +31,12 @@ Trabalho com Deep Learning e Visão Computacional, desenvolvendo sistemas aplica
 - lucas.ocunha@ppgia.pucpr.br
 - lucas.ocunha@hotmail.com
 - https://www.linkedin.com/in/lucasdoc/
+
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasdocunha&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdocunha&layout=compact)
+
+---
