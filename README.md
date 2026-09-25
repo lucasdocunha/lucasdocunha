@@ -1,6 +1,6 @@
 ## Oi, prazer, [***Lucas***](https://www.linkedin.com/in/lucasdoc/)! 👋
 
-Estudante de Ciência da Computação (7º semestre), pesquisador na PUCPR e atuando com Cientista de Dados na MBRF.
+Estudante de Ciência da Computação (8º semestre), pesquisador na PUCPR e atuando com Engenheiro de Machine Learning e Pesquisado na Datakie.
 
 Trabalho com Deep Learning e Visão Computacional, desenvolvendo sistemas aplicados a cenários reais e pesquisa em Cidades Inteligentes.
 
